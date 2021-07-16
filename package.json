@@ -1,6 +1,5 @@
-
 {
-  "name": "basic-informational-site", 
+  "name": "basic-informational-site",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -9,6 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "type": "module"
-  
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
